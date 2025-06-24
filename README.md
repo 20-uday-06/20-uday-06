@@ -10,27 +10,36 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
+<div align="center">
+
+🎓 **B.Tech 2nd Year @ IIT Roorkee** | CGPA: **8.348**  
+🚀 **ML Researcher** | **Full-Stack Developer** | **Data Scientist**  
+📍 **Roorkee, India**
+
+</div>
+
 ```python
 class UdayTyagi:
     def __init__(self):
         self.name = "Uday Tyagi"
-        self.education = "B.Tech 2nd Year @ IIT Roorkee"
         self.role = "ML Researcher | Full-Stack Developer | Data Scientist"
+        self.education = "B.Tech 2nd Year @ IIT Roorkee"
         self.cgpa = "8.348"
-        self.location = "Roorkee, India"
         self.areas_of_interest = [
             "Software Development", "Machine Learning", "Data Science",
             "Deep Learning", "Computer Vision", "NLP"
         ]
         self.languages = ["Python", "C++", "JavaScript", "SQL"]
         self.frameworks = [
-            "PyTorch", "TensorFlow", "Scikit-learn", "Pandas", "NumPy",
+            "PyTorch", "TensorFlow", "Scikit-learn", "Pandas", 
             "React.js", "Node.js", "Express.js", "MongoDB"
         ]
-        self.current_focus = "Building intelligent systems and scalable applications"
+        
+    def get_passion(self):
+        return f"Building intelligent systems and scalable applications"
 
 me = UdayTyagi()
-print(f"Welcome! I'm {me.name}, passionate about {', '.join(me.areas_of_interest[:3])}!")
+print(f"Welcome! I'm passionate about {me.get_passion()}!")
 ```
 
 <div align="center">
