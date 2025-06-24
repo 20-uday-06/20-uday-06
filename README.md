@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🎓 **B.Tech 2nd Year @ IIT Roorkee** | CGPA: **8.348**  
+🎓 **B.Tech 2nd Year @ IIT Roorkee**  
 🚀 **ML Researcher** | **Full-Stack Developer** | **Data Scientist**  
 📍 **Roorkee, India**
 
@@ -80,7 +80,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=20-uday-06&bg_color=0d1117&color=36BCF7FF&line=36BCF7FF&point=FFFFFF&area_color=36BCF7FF&title_color=FFFFFF&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=20-uday-06&theme=react-dark&bg_color=0d1117&color=36BCF7FF&line=36BCF7FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
