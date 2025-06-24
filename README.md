@@ -18,29 +18,19 @@
 
 </div>
 
-```python
-class UdayTyagi:
-    def __init__(self):
-        self.name = "Uday Tyagi"
-        self.role = "ML Researcher | Full-Stack Developer | Data Scientist"
-        self.education = "B.Tech 2nd Year @ IIT Roorkee"
-        self.cgpa = "8.348"
-        self.areas_of_interest = [
-            "Software Development", "Machine Learning", "Data Science",
-            "Deep Learning", "Computer Vision", "NLP"
-        ]
-        self.languages = ["Python", "C++", "JavaScript", "SQL"]
-        self.frameworks = [
-            "PyTorch", "TensorFlow", "Scikit-learn", "Pandas", 
-            "React.js", "Node.js", "Express.js", "MongoDB"
-        ]
-        
-    def get_passion(self):
-        return f"Building intelligent systems and scalable applications"
+<br>
 
-me = UdayTyagi()
-print(f"Welcome! I'm passionate about {me.get_passion()}!")
-```
+**💻 Quick Facts:**
+- 🔭 Currently exploring **Machine Learning**, **Deep Learning**, and **AI**
+- 💻 Experienced in **Full-Stack Web Development** with backend focus
+- 🧠 Passionate about building intelligent systems that make an impact
+- 🌱 Always learning — from algorithms to cutting-edge tech
+- 🎯 Focus: **Building intelligent systems and scalable applications**
+
+**🛠️ Core Skills:**
+- **Languages:** Python, C++, JavaScript, SQL
+- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- **Web:** React.js, Node.js, Express.js, MongoDB
 
 <div align="center">
 
