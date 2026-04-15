@@ -6,7 +6,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm **Uday Tyagi** 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Code Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🎓+B.Tech+2nd+Year+%40+IIT+Roorkee;🤖+ML+%26+AI+Research+Enthusiast;💻+Full+Stack+Developer;📊+Data+Science+%26+Deep+Learning;🚀+Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🎓+B.Tech+3rd+Year+%40+IIT+Roorkee;🤖+ML+%26+AI+Research+Enthusiast;💻+Full+Stack+Developer;📊+Data+Science+%26+Deep+Learning;🚀+Building+the+Future+with+Code" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **B.Tech 2nd Year @ IIT Roorkee**  
+🎓 **B.Tech 3rd Year @ IIT Roorkee**  
 🚀 **ML Researcher** | **Full-Stack Developer** | **Data Scientist**  
 📍 **Roorkee, India**
 
